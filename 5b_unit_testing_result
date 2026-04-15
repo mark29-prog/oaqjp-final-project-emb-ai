@@ -1,0 +1,25 @@
+$ python3 test_emotion_detection.py
+Running Emotion Detection Unit Tests...
+
+Text: I am glad this happened
+Expected: joy, Got: joy
+Test Passed ✅
+
+Text: I am really mad about this
+Expected: anger, Got: anger
+Test Passed ✅
+
+Text: I feel disgusted just hearing about this
+Expected: disgust, Got: disgust
+Test Passed ✅
+
+Text: I am so sad about this
+Expected: sadness, Got: sadness
+Test Passed ✅
+
+Text: I am really afraid that this will happen
+Expected: fear, Got: fear
+Test Passed ✅
+
+All tests passed successfully 🎉
+theia@theiadocker-afriyiemark1:/home/project$ 
